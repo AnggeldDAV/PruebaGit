@@ -6,4 +6,6 @@ Estos cambios se reflejaran en la rama principal.\
 - [ ] dhawhduawd
 - [ ] aiudhuiawhid
 ***
-![Sombrero vaquero](https://images.emojiterra.com/google/android-10/512px/1f920.png)
+<div style="text-align: center;">
+  ![Sombrero vaquero](https://images.emojiterra.com/google/android-10/512px/1f920.png)
+</div>
