@@ -11,6 +11,6 @@ Estos cambios se reflejaran en la rama principal.\
            margin-left: auto;
            margin-right: auto;
            width: 30%;"
-    src="[https://markdown.land/wp-content/uploads/2021/06/markdown-512px.png](https://images.emojiterra.com/google/android-10/512px/1f920.png)" 
+    src="https://images.emojiterra.com/google/android-10/512px/1f920.png" 
     alt="Sombrero Vaquero">
 </img>
