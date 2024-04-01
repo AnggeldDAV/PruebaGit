@@ -8,8 +8,7 @@ Estos cambios se reflejaran en la rama principal.\
 ***
 <img 
     style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
+           margin: auto;
            width: 30%;"
     src="https://images.emojiterra.com/google/android-10/512px/1f920.png" 
     alt="Sombrero Vaquero">
